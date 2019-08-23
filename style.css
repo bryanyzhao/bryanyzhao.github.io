@@ -16,7 +16,6 @@ body {
     color: #5d5d61;
     line-height: 1.75;
     --primary: #3767ce;
-    scroll-snap-type: y proximity;
 }
 
 h1, h1 strong, h2, h3 {
@@ -155,7 +154,6 @@ a:visited {
     padding: 0;
     position: relative;
     perspective: 1500px;
-    scroll-snap-align: center;
 }
 
 .panel-inner {
